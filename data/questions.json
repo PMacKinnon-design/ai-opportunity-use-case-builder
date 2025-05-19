@@ -1,0 +1,8 @@
+
+[
+    {"id": "q1", "question": "How standardized are your procurement processes?"},
+    {"id": "q2", "question": "How accessible is your procurement data?"},
+    {"id": "q3", "question": "What is your current use of AI in procurement?"},
+    {"id": "q4", "question": "How much executive support exists for AI initiatives?"},
+    {"id": "q5", "question": "How automated are your current tools or systems?"}
+]

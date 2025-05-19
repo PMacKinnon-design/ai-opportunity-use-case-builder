@@ -1,0 +1,33 @@
+
+[
+    {
+        "Function": "Spend Analytics",
+        "Adoption Level": "Very High",
+        "Typical AI Use Case": "Auto-Categorization",
+        "Industry Adoption Rate": 0.85
+    },
+    {
+        "Function": "Contract Management",
+        "Adoption Level": "High",
+        "Typical AI Use Case": "Clause Risk Analysis",
+        "Industry Adoption Rate": 0.75
+    },
+    {
+        "Function": "Supplier Risk Monitoring",
+        "Adoption Level": "Medium",
+        "Typical AI Use Case": "Event Alerting & Scorecards",
+        "Industry Adoption Rate": 0.60
+    },
+    {
+        "Function": "Compliance Monitoring",
+        "Adoption Level": "Medium",
+        "Typical AI Use Case": "Policy Violation Detection",
+        "Industry Adoption Rate": 0.55
+    },
+    {
+        "Function": "Strategic Sourcing",
+        "Adoption Level": "Low",
+        "Typical AI Use Case": "Supplier Suggestion Engine",
+        "Industry Adoption Rate": 0.40
+    }
+]
